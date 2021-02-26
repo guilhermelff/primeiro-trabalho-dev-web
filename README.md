@@ -1,4 +1,4 @@
 # primeiro-trabalho-dev-web
 
-site criado com bootstrap 4.3.1
-inspirado no site oficial do airbnb
+<p>Site criado com bootstrap 4.3.1</p>
+<p>Inspirado no site oficial do Airbnb</p>
